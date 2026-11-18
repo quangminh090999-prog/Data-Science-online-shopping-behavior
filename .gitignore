@@ -216,5 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-data/processed/online_retail_sales.csv
-data/processed/online_retail_cleaned.csv
